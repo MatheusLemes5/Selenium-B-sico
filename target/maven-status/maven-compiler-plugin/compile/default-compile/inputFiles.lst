@@ -1,0 +1,17 @@
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/core/BaseTest.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/core/DriverFactory.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/core/BasePage.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/testes/ContaTeste.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/testes/SaldoTeste.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/page/HomePage.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/page/MenuPage.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/testes/ResumoTeste.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/suites/SuiteGeral.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/page/ResumoPage.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/core/Propiedades.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/util/DataUtils.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/page/LoginPage.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/testes/RemoverMovimentacaoContaTeste.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/testes/MovimentacaoTeste.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/page/ContasPage.java
+/home/atlas/IdeaProjects/ProjetoBasico/src/main/java/page/MovimentacaoPage.java
